@@ -39,12 +39,6 @@ Data was stored and queried in **MS SQL Server**, then visualized in **Power BI*
 
 ---
 
-## Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)  
-![SQL Data](screenshots/sql_data.png)  
-
----
-
 ## Insights
 - Total **Premiums**: 5.98M  
 - Total **Coverage**: 600.55M  
